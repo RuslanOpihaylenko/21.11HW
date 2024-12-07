@@ -1,13 +1,15 @@
 #include<iostream>
 #include"Fraction.h"
-#include"Fraction.cpp"
 using namespace std;
+
 
 int main()
 {
+	double numerator = 5;
+	double denominator = 2;
 	Fraction fr;
-	fr.setnumerator(5);
-	fr.setdenominator(2);
+	fr.setnumerator(numerator);
+	fr.setdenominator(denominator);
 	fr.getnumerator();
 	fr.getdenominator();
 	fr.AddFraction(numerator, denominator);

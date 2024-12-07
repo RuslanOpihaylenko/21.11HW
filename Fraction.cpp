@@ -41,3 +41,13 @@ double Fraction::getdenominator()
 {
 	return denominator;
 }
+
+double Fraction::operator+(Fraction fr)
+{
+	return (fr.numerator / fr.denominator) + (this->numerator / this->denominator);
+	return (fr.numerator / fr.denominator) - (this->numerator / this->denominator);
+	return (fr.numerator / fr.denominator) * (this->numerator / this->denominator);
+	return (fr.numerator / fr.denominator) / (this->numerator / this->denominator);
+
+}
+

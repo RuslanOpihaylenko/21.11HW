@@ -1,11 +1,4 @@
 ﻿  Fraction.cpp
   Main.cpp
   Создание кода...
-C:\Users\rysya\Desktop\21.11HW\21.11HW\Main.cpp(13,17): error C2065: numerator: необъявленный идентификатор
-C:\Users\rysya\Desktop\21.11HW\21.11HW\Main.cpp(13,28): error C2065: denominator: необъявленный идентификатор
-C:\Users\rysya\Desktop\21.11HW\21.11HW\Main.cpp(14,19): error C2065: numerator: необъявленный идентификатор
-C:\Users\rysya\Desktop\21.11HW\21.11HW\Main.cpp(14,30): error C2065: denominator: необъявленный идентификатор
-C:\Users\rysya\Desktop\21.11HW\21.11HW\Main.cpp(15,17): error C2065: numerator: необъявленный идентификатор
-C:\Users\rysya\Desktop\21.11HW\21.11HW\Main.cpp(15,28): error C2065: denominator: необъявленный идентификатор
-C:\Users\rysya\Desktop\21.11HW\21.11HW\Main.cpp(16,17): error C2065: numerator: необъявленный идентификатор
-C:\Users\rysya\Desktop\21.11HW\21.11HW\Main.cpp(16,28): error C2065: denominator: необъявленный идентификатор
+  21.11HW.vcxproj -> C:\Users\rysya\Desktop\IT\21.11HW\x64\Debug\21.11HW.exe

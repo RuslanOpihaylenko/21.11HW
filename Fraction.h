@@ -13,5 +13,7 @@ public:
 	void setdenominator(double my_denominator);
 	double getnumerator();
 	double getdenominator();
+	double  operator+(Fraction fr);
+
 };
 
