@@ -12,8 +12,8 @@ int main()
 	fr.setdenominator(denominator);
 	fr.getnumerator();
 	fr.getdenominator();
-	fr.AddFraction(numerator, denominator);
-	fr.MinusFraction(numerator, denominator);
-	fr.MnoFraction(numerator, denominator);
-	fr.DilFraction(numerator, denominator);
+	fr.operator+(numerator, denominator);
+	fr.operator-(numerator, denominator);
+	fr.operator*(numerator, denominator);
+	fr.operator/(numerator, denominator);
 }
